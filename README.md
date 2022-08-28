@@ -1,3 +1,6 @@
+# Project forked to show ssr problems
+issue: https://github.com/easafe/purescript-flame/issues/69
+
 ## Flame ![build status](https://github.com/easafe/purescript-flame/actions/workflows/CI.yml/badge.svg)
 
 Flame is a fast & simple framework inspired by the Elm architecture for building web applications in PureScript
