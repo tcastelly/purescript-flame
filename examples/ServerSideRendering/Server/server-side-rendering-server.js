@@ -1,3 +1,3 @@
-import { main } from '../../../output/Examples.EffectList.ServerSideRendering.Server.Main';
+import { main } from '../../../output/Examples.EffectList.ServerSideRendering.Server.Main/index.js';
 
 main();
