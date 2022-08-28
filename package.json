@@ -10,8 +10,8 @@
       ],
       "scripts": {
             "example-dice-aff": "parcel build examples/EffectfulDice/dice.js --dist-dir examples/EffectfulDice/dist/",
-            "example-server-side-rendering-server": "parcel build examples/ServerSideRendering/Server/dist/server-side-rendering-server.js --dist-dir examples/ServerSideRendering/Server/dist -t node",
-            "example-server-side-rendering-client": "parcel build examples/ServerSideRendering/Client/server-side-rendering-client.js --dist-dir examples/ServerSideRendering/Client/dist",
+            "example-server-side-rendering-server": "parcel build examples/ServerSideRendering/Server/server-side-rendering-server.js --dist-dir examples/ServerSideRendering/dist",
+            "example-server-side-rendering-client": "parcel build examples/ServerSideRendering/Client/server-side-rendering-client.js --dist-dir examples/ServerSideRendering/dist",
             "example-server-side-rendering": "npm run example-server-side-rendering-server && npm run example-server-side-rendering-client",
             "example-affjax": "parcel build examples/EffectfulAffjax/affjax.js --dist-dir examples/EffectfulAffjax/dist",
             "example-affjax-list": "parcel build examples/Affjax/affjax.js --dist-dir examples/Affjax/dist",

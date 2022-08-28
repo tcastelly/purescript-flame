@@ -1,1 +1,3 @@
-require('../../output/Examples.EffectList.ServerSideRendering.Server.Main').main();
+import { main } from '../../../output/Examples.EffectList.ServerSideRendering.Server.Main';
+
+main();
